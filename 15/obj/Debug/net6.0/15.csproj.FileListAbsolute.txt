@@ -1,0 +1,16 @@
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\15.exe
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\input.txt
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\15.deps.json
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\15.runtimeconfig.json
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\15.dll
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\ref\15.dll
+C:\dev\AdvendOfCode2021\15\bin\Debug\net6.0\15.pdb
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.csproj.AssemblyReference.cache
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.AssemblyInfoInputs.cache
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.AssemblyInfo.cs
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.csproj.CoreCompileInputs.cache
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.dll
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\ref\15.dll
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.pdb
+C:\dev\AdvendOfCode2021\15\obj\Debug\net6.0\15.genruntimeconfig.cache
